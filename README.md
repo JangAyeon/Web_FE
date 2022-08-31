@@ -89,8 +89,8 @@ https://github.com/JangAyeon/Responsive_web <br>
         <td width="100%" align="center"><img src="https://user-images.githubusercontent.com/67853616/187704236-627daa47-f3b2-49a2-a740-910edfaee494.png"></td>
     </tr>
 </table>
-깃헙 : https://github.com/JangAyeon/Tobigs_12_Recsys_Web
-문서화 & 실행 영상 : https://fringe-polyester-65b.notion.site/c11b3ce992094cbe81b87b4263863d22
+깃헙 : https://github.com/JangAyeon/Tobigs_12_Recsys_Web <br>
+문서화 & 실행 영상 : https://fringe-polyester-65b.notion.site/c11b3ce992094cbe81b87b4263863d22 <br>
 
 ### [7] ✏️ 바닐라 JS로 그림판 만들기
 <table>
@@ -99,5 +99,5 @@ https://github.com/JangAyeon/Responsive_web <br>
 </td>
     </tr>
 </table>
-배포 : https://jangayeon.github.io/paintjs/
-깃헙 : https://github.com/JangAyeon/paintjs
+배포 : https://jangayeon.github.io/paintjs/  <br>
+깃헙 : https://github.com/JangAyeon/paintjs <br>
