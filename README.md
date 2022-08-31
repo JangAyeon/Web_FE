@@ -66,6 +66,15 @@
 </table>
 
 깃헙 : https://github.com/JangAyeon/book_curly
-문서화 : https://fringe-polyester-65b.notion.site/Book-Curly-ea7584738c1341fdaf0de24b98ffdf7f
+문서화 & 실행 영상 : https://fringe-polyester-65b.notion.site/Book-Curly-ea7584738c1341fdaf0de24b98ffdf7f
 
 ### [5] 🗻 다시만나 : 웹/모바일 반응형 기반 글쓰기 소모임 글 분석 결과 발표 웹사이트
+
+<table>
+    <tr width="100%">
+        <td width="100%" align="center"><img src="https://user-images.githubusercontent.com/67853616/187703258-f61fc992-fdaf-4544-9350-aedead9971ec.png"></td>
+    </tr>
+</table>
+
+깃헙 : https://github.com/JangAyeon/thefreehold
+문서화 & 실행 영상 : https://fringe-polyester-65b.notion.site/15e4f0f25da547d68828c97f471a36a1
