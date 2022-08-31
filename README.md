@@ -65,8 +65,8 @@
     </tr>
 </table>
 
-깃헙 : https://github.com/JangAyeon/book_curly
-문서화 & 실행 영상 : https://fringe-polyester-65b.notion.site/Book-Curly-ea7584738c1341fdaf0de24b98ffdf7f
+깃헙 : https://github.com/JangAyeon/book_curly <br> 
+문서화 & 실행 영상 : https://fringe-polyester-65b.notion.site/Book-Curly-ea7584738c1341fdaf0de24b98ffdf7f <br> 
 
 ### [5] 🗻 다시만나 : 웹/모바일 반응형 기반 글쓰기 소모임 글 분석 결과 발표 웹사이트
 
@@ -76,5 +76,28 @@
     </tr>
 </table>
 
-깃헙 : https://github.com/JangAyeon/thefreehold
-문서화 & 실행 영상 : https://fringe-polyester-65b.notion.site/15e4f0f25da547d68828c97f471a36a1
+깃헙 : https://github.com/JangAyeon/thefreehold <br> 
+문서화 & 실행 영상 : <br> 
+https://fringe-polyester-65b.notion.site/15e4f0f25da547d68828c97f471a36a1 
+https://github.com/JangAyeon/Responsive_web <br>
+<br> 
+
+
+### [6] 🕹 겜플리 : 이미지・텍스트 기반 게임 추천시스템
+<table>
+    <tr width="100%">
+        <td width="100%" align="center"><img src="https://user-images.githubusercontent.com/67853616/187704236-627daa47-f3b2-49a2-a740-910edfaee494.png"></td>
+    </tr>
+</table>
+깃헙 : https://github.com/JangAyeon/Tobigs_12_Recsys_Web
+문서화 & 실행 영상 : https://fringe-polyester-65b.notion.site/c11b3ce992094cbe81b87b4263863d22
+
+### [7] ✏️ 바닐라 JS로 그림판 만들기
+<table>
+    <tr width="100%">
+        <td width="100%" align="center"><img alt="스크린샷 2022-08-31 오후 11 34 25" src="https://user-images.githubusercontent.com/67853616/187705024-001a01f9-025b-446e-a0d0-b542b4458d7d.png">
+</td>
+    </tr>
+</table>
+배포 : https://jangayeon.github.io/paintjs/
+깃헙 : https://github.com/JangAyeon/paintjs
