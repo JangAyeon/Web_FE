@@ -1,6 +1,6 @@
 # Web_FE
 
-## Team Project
+## Project
 
 ### [1] 🌈 이상청 : 이화인을 위한 기상 정보 및 옷차림 정보 제공 서비스
 <table>
@@ -69,11 +69,3 @@
 문서화 : https://fringe-polyester-65b.notion.site/Book-Curly-ea7584738c1341fdaf0de24b98ffdf7f
 
 ### [5] 🗻 다시만나 : 웹/모바일 반응형 기반 글쓰기 소모임 글 분석 결과 발표 웹사이트
-<table>
-    <tr width="100%">
-            <td width="100%" align="center"><img width="100%" alt="image" src="https://user-images.githubusercontent.com/67853616/187702838-cf4ae253-2a29-4bdd-aa22-b40ec36757e9.png"></td>
-      
-    </tr>
-</table>
-
-
