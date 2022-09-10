@@ -10,7 +10,7 @@
     </tr>
 </table>
 
-배포 : https://www.eweather.site/ <br> 
+배포 : https://www.eweather.site/ **운영종료** <br> 
 깃헙 : https://github.com/EFUB-TEAM4/ewha-weather-frontend <br>
 기술블로그 : https://hixsch-kixsch59.tistory.com/category/%EC%9D%B4%EC%83%81%EC%B2%AD. <br>
 
