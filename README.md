@@ -101,3 +101,20 @@ https://github.com/JangAyeon/Responsive_web <br>
 </table>
 배포 : https://jangayeon.github.io/paintjs/  <br>
 깃헙 : https://github.com/JangAyeon/paintjs <br>
+
+### [8] ✏️ Cinema-phille 
+
+
+
+<table>
+    <tr width="30%">
+            <td width="30%" align="center"><img width="423" alt="image" src="https://user-images.githubusercontent.com/67853616/203368971-1c4df0e1-881c-4528-8dc4-4506af44678b.png"></td>
+        <td width="30%" height="50%"align="center"><<img width="319" alt="image" src="https://user-images.githubusercontent.com/67853616/203369135-804eeca7-a9ca-4994-83c6-5890e585b5e5.png"></td>
+                <td width="30%" height="50%"align="center"><img width="314" alt="image" src="https://user-images.githubusercontent.com/67853616/203369277-fa06b655-6480-412e-8ca1-ac3b665ffde8.png"></td>
+    </tr>
+</table>
+
+기능 : 영화 문화를 사랑하는 시네필을 위한 영화/영화인 검색, 투표/랭킹 시스템, 장르 추천 테스트, 커뮤니티, 마이페이지 북마크 모아보기<br>
+기술 스택 : XAMPP <br>
+담당 페이지 : Vote, Recommend, MyPage<br>
+깃헙 : https://github.com/cinema-phile/team15 <br>
